@@ -1,4 +1,6 @@
-# siw-html-hw2
+# Sistemi Informativi su Web 2021/2022
+
+## Homework 2 (HTML e CSS)
 
 Si prenda in considerazione la pagina Web del docente: 
     http://merialdo.dia.uniroma3.it/
