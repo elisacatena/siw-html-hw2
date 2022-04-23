@@ -23,20 +23,6 @@ nav {
 	background-size: auto auto;
 }
 
-/*#nav {
-	background-color: #3b7087;
-	color: white;
-	height: 30%;
-	width: 100%;
-	font-family: "OracleSansVF", "OracleSansVFCyGr", -apple-system,
-		BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;;
-	background-image:
-		url(https://www.oracle.com/asset/web/i/rw-natural06-15p.png);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	line-height: 1.5;
-}*/
 div.item {
 	color: white;
 	width: 30%;
@@ -52,10 +38,15 @@ div.item {
 }
 
 #a1 {
-	color: black;
+	color: #F0CC71;
 	display: flex;
 	align-items: center;
 	flex-direction: column;
+	font-weight: normal;
+}
+
+#a1:hover {
+	background: none;
 }
 
 img {
