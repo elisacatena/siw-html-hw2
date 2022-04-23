@@ -6,6 +6,7 @@ Si prenda in considerazione la pagina Web del docente:
 Progettare la pagina Web (HTML+CSS) del docente. 
 
 In un’unica pagina devono essere riportate: 
+
     1) tutte le informazioni presenti nella pagina 
     http://merialdo.dia.uniroma3.it/, 
     
