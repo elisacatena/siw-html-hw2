@@ -33,7 +33,7 @@ div.item {
 	align-items: center;
 	flex-direction: column;
 	flex-shrink: 1;
-	font-size: 20;
+	font-size: 18;
 	position: relative;
 }
 
