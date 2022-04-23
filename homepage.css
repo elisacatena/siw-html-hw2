@@ -1,0 +1,125 @@
+body {
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+}
+
+nav {
+	background-color: #3a3632;
+	text-align: center;
+}
+
+#flex-container {
+	background-color: #3b7087;
+	color: white;
+	width: 100%;
+	background-image:
+		url(https://www.oracle.com/asset/web/i/rw-natural06-15p.png);
+	margin: auto;
+	background-position: 0 0 !important;
+	background-size: auto auto;
+	background-repeat: repeat;
+}
+
+#nav {
+	background-color: #3b7087;
+	color: white;
+	height: 30%;
+	width: 100%;
+	font-family: "OracleSansVF", "OracleSansVFCyGr", -apple-system,
+		BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;;
+	background-image:
+		url(https://www.oracle.com/asset/web/i/rw-natural06-15p.png);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	line-height: 1.5;
+}
+
+div.item {
+	color: white;
+	width: 30%;
+	font-family: "OracleSansVF", "OracleSansVFCyGr", -apple-system,
+		BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", sans-serif;
+	padding: 20px;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	flex-shrink: 1;
+	font-size: 15;
+	position: relative;
+}
+
+#a1 {
+	color: black;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+}
+
+img {
+	width: 47%;
+	justify-content: center;
+	margin-left: 3em;
+	margin-right: 3em;
+	position: relative;
+}
+
+div.home-body {
+	background-color: white;
+	width: 100%;
+	float: right;
+	font-family: "Oracle Sans", -apple-system, BlinkMacSystemFont,
+		"Segoe UI", "Helvetica Neue", Arial, sans-serif;
+	font-weight: 400;
+	line-height: 1.4;
+}
+
+div.header {
+	padding-left: 2em;
+	padding-right: 2em;
+	color: black;
+	font-family: helvetica, arial, geneva, sans-serif;
+	font-size: 0.9em;
+	margin-top: 1.5em;
+	margin-bottom: 1.5em;
+	margin-left: 0.1em;
+}
+
+h1 {
+	border: 3px solid black;
+	width: fit-content;
+	border-left: none;
+	border-right: none;
+}
+
+h3 {
+	padding-left: 1em;
+}
+
+ul {
+	padding-left: 3em;
+}
+
+a {
+	font-weight: bold;
+	color: #006B8F;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: -webkit-link;
+}
+
+#aacc {
+	padding-left: 1.8em;
+	color: cadetblue;
+	font-size: large;
+}
+
+* {
+	box-sizing: content-box;
+}
