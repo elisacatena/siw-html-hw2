@@ -21,6 +21,7 @@ header {
 	margin: auto;
 	background-position: 0 0 !important;
 	background-size: auto auto;
+	width: 100%;
 }
 
 div.item {
