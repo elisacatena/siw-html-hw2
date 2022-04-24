@@ -37,11 +37,6 @@ div.item {
 	position: relative;
 }
 
-.responsive {
-  width: 100%;
-  height: auto;
-}
-
 #a1 {
 	color: #F0CC71;
 	display: flex;
