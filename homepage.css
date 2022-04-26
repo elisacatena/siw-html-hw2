@@ -22,6 +22,7 @@ header {
 	background-position: 0 0 !important;
 	background-size: auto auto;
 	width: 100%;
+	word-wrap: break-word;
 }
 
 div.item {
