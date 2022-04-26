@@ -129,8 +129,9 @@ a:visited {
 	box-sizing: content-box;
 } */
 
-@media(max-width:500px) {
-	articlec{
-		margin: 0 2px;
+@media {
+	#flex-container {
+		display: flex;
+		flex-direction: column;
 	}
 }
