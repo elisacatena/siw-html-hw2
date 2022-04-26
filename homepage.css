@@ -124,9 +124,9 @@ a:visited {
 	font-size: large;
 }
 
-* {
+/* * {
 	box-sizing: content-box;
-}
+} */
 
 @media(max-width:500px) {
 	articlec{
